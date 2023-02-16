@@ -21,6 +21,7 @@ Proceeding using 4 clusters, we create a 3D scatter to visualize the Cryptocurre
 ![](Images/3DScatter.png)
 
 Hovering over LiteCoin, for example:
+
 ![](Images/3DScatter2.png)
 
 A table was built with the tradable Cryptocurrencies.
