@@ -19,6 +19,8 @@ Utlizing the Elbow Curve, we determine the best value for K = 4.
 
 Proceeding using 4 clusters, we create a 3D scatter to visualize the Cryptocurrencies results.  The graph has been built with the ability to provide CoinName and data as you hover over each mark.
 ![](Images/3DScatter.png)
+
+Hovering over LiteCoin, for example:
 ![](Images/3DScatter2.png)
 
 A table was built with the tradable Cryptocurrencies.
