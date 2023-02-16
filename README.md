@@ -30,6 +30,6 @@ A table was built with the tradable Cryptocurrencies.
 
 ![](Images/Table.png)
 
-Finally, we plot the data using hvplot.scatter to show the Total Coin Supply vs te Total Coins Mined.
+Finally, we plot the data using hvplot.scatter to compare the Total Coin Supply vs the Total Coins Mined.
 
 ![](Images/Hvplot.png)
